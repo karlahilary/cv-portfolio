@@ -1,6 +1,7 @@
 .bloc{
-    width: 700px;
+    width: 730px;
     height: 150px;
+    margin-left: 18rem;
     background-color:orange
 
 }
@@ -22,10 +23,10 @@
 }
 .couleur{
     width: 280px;
-    height: 1050px;
+    height: 1000px;
     background-color: midnightblue;
     margin-top: -165px;
-    margin-left: 30px;
+    margin-left: 20rem;
 }
 #imagestyle{
     margin-top: 40px;
@@ -378,18 +379,18 @@
     font-size: 13px; 
 }
 .para8{
-    margin-left: 350px;
-    margin-top: -900px;
+    margin-left: 45rem;
+    margin-top: -850px;
     font-size: 15px;
 }
 #texte{
-    margin-left: 350px;
+    margin-left: 45rem;
     margin-top: -15px;
     font-size: 15px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 #ed{
-    margin-left: 350px;
+    margin-left: 45rem;
     border-radius: 30px;
     border: none;
     width: 160px;
@@ -400,7 +401,7 @@
     background-color: goldenrod;
 }
 #rond{
-    margin-left: 360px;
+    margin-left: 45rem;
     margin-top: 20px;
     border-radius: 30px;
     height: 15px;
@@ -412,11 +413,11 @@
     width: 2px;
     height: 70px;
     background-color: darkslateblue;
-    margin-left: 365px;
+    margin-left: 45.5rem;
     margin-top: -3px;
 }
 #bule{
-    margin-left: 358px;
+    margin-left: 45rem;
     margin-top: -15px;
     border-radius: 30px;
     height: 15px;
@@ -428,49 +429,50 @@
     width: 2px;
     height: 40px;
     background-color: darkslateblue;
-    margin-left: 365px;
+    margin-left: 45.5rem;
     margin-top: -3px;
 }
 .para9{
-    margin-left: 400px;
+    margin-left: 48rem;
     margin-top: -150px;
     font-size: 15px;
     font-weight: bold;
     color:olive
 }
 #para10{
-    margin-left: 400px;
+    margin-left: 48rem;
     margin-top: -10px;
     font-size: 15px;
     color: olive;
     font-weight: bold;
 }
 #bas{
-    margin-left: 400px;
+    margin-left: 48rem;
     margin-top: -15px;
     font-size: 15px;
 }
 .para11{
-    margin-left: 400px;
+    margin-left: 48rem;
     margin-top: 25px;
     font-size: 15px;
     font-weight: bold;
     color:olive
 }
 #bst{
-    margin-left: 400px;
+    margin-left: 48rem;
     margin-top: -10px;
     font-size: 15px;
     color: olive;
     font-weight: bold;
 }
 #plus-bas{
-    margin-left: 400px;
+    margin-left: 48rem;
     margin-top: -15px;
     font-size: 15px;
 }
 #exp{
-    margin-left: 350px;
+    margin-top: 0.5rem;
+    margin-left: 45rem;
     border-radius: 30px;
     border: none;
     width: 160px;
@@ -479,9 +481,10 @@
     font-weight: bolder;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background-color: goldenrod;
+    
 }
 .bule1{
-    margin-left: 358px;
+    margin-left: 45rem;
     margin-top: 30px;
     border-radius: 30px;
     height: 15px;
@@ -493,11 +496,11 @@
     width: 2px;
     height: 80px;
     background-color: darkslateblue;
-    margin-left: 365px;
-    margin-top: -3px;
+    margin-left: 45.5rem;
+    margin-top: -1rem;
 }
 .bule2{
-    margin-left: 358px;
+    margin-left: 45rem;
     margin-top: -15px;
     border-radius: 30px;
     height: 15px;
@@ -509,11 +512,11 @@
     width: 2px;
     height: 90px;
     background-color: darkslateblue;
-    margin-left: 365px;
+    margin-left: 45.5rem;
     margin-top: -3px;
 }
 .bule3{
-    margin-left: 358px;
+    margin-left: 45rem;
     margin-top: -15px;
     border-radius: 30px;
     height: 15px;
@@ -525,39 +528,39 @@
     width: 2px;
     height: 50px;
     background-color: darkslateblue;
-    margin-left: 365px;
+    margin-left: 45.5rem;
     margin-top: -3px;
 }
 .texte1{
-    margin-left: 400px;
-    margin-top: -280px;
+    margin-left: 48rem;
+    margin-top: -23rem;
     font-size: 15px;
     font-weight: bold;
     color: olive;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 #texte2{
-    margin-left: 400px;
-    margin-top: -10px;
+    margin-left: 48rem;
+    margin-top: -1rem;
     font-size: 15px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 .texte3{
-    margin-left: 400px;
-    margin-top: 25px;
+    margin-left: 48rem;
+    margin-top: -0.1rem;
     font-size: 15px;
     font-weight: bold;
     color: olive;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 .texte4{
-    margin-left: 400px;
-    margin-top: -10px;
+    margin-left: 48rem;
+    margin-top: -1rem;
     font-size: 15px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 .texte5{
-    margin-left: 400px;
+    margin-left: 48rem;
     margin-top: 5px;
     font-size: 15px;
     font-weight: bold;
@@ -565,13 +568,14 @@
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 .texte6{
-    margin-left: 400px;
+    margin-left: 48rem;
     margin-top: -10px;
     font-size: 15px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 #point{
-    margin-left: 350px;
+    margin-top: 1rem;
+    margin-left: 45rem;
     border-radius: 30px;
     border: none;
     width: 160px;
@@ -582,14 +586,14 @@
     background-color: goldenrod
 }
 .texte7{
-    margin-left: 370px;
+    margin-left: 47rem;
     font-size: 15px;
     font-weight: bold;
     color: olive;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 .texte8{
-    margin-left: 370px;
+    margin-left: 47rem;
     font-size: 15px;
     margin-top: -10px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -598,8 +602,8 @@
     width: 750px;
     height: 40px;
     background-color: goldenrod;
-    margin-left: -10px;
-    margin-top: 25px;
+    margin-left: 18rem;
+    margin-top: -0.1rem;
 
 }
 #img2{
@@ -633,4 +637,11 @@
     margin-left: 100px;
     margin-top: -30px;
     font-weight: bold;
+}
+#cadre{
+    height: 90rem;
+    width: 20rem;
+    background-color:linen;
+    margin-left: 20rem;
+    
 }
